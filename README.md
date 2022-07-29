@@ -10,9 +10,9 @@ With added feature to monitor employees and concern for their well-being
 
 The project consists of 2 main pieces:
 
-Hardware & code: <a href="https://github.com/Ahmad152/Scale-Platform.git"> Scale - Platform </a>
+<b>Hardware & code:</b> <a href="https://github.com/Ahmad152/Scale-Platform.git"> Scale - Platform </a>
 
-Application: <a href="https://github.com/Ahmad152/AidScale-Mobile-Application.git"> AidScale-Mobile-Application </a>
+<b>Application:</b> <a href="https://github.com/Ahmad152/AidScale-Mobile-Application.git"> AidScale-Mobile-Application </a>
 
 <img src="ProjectPoster.png" width="400px"/>
 
