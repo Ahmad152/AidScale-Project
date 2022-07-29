@@ -1,5 +1,5 @@
 # AidScale-Project
-IOT project created by Ahmad Igbariya, Sofian Falah, Mahmoud Masarwa
+
 
 Main repository of the Aid-Scale IOT project
 
@@ -11,4 +11,4 @@ Application: <a href="https://github.com/Ahmad152/AidScale-Mobile-Application.gi
 
 The project was made for the <b>236333 Internet Of Things</b> course at the <a href="https://www.technion.ac.il/en/home-2/">Technion</a>
 
-The project was made by: <a href="https://github.com/sofianfalah">Sofian Falah</a>, Sivan Yosebashvili and Mor Paz
+The project was made by:<a href="https://github.com/Ahmad152">Ahmad Igbariya</a> <a href="https://github.com/sofianfalah">Sofian Falah</a> and <a href="https://github.com/AmeerMsarwa98">Mahmoud Masarwa</a>
