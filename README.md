@@ -14,7 +14,7 @@ Hardware & code: <a href="https://github.com/Ahmad152/Scale-Platform.git"> Scale
 
 Application: <a href="https://github.com/Ahmad152/AidScale-Mobile-Application.git"> AidScale-Mobile-Application </a>
 
-<img src="ProjectPoster.png" width="300px"/>
+<img src="ProjectPoster.png" width="400px"/>
 
 The project was made for the <b>236333 Internet Of Things</b> course at the <a href="https://www.technion.ac.il/en/home-2/">Technion-institute of Technology</a>
 
