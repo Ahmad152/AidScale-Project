@@ -11,3 +11,4 @@ Application: <a href="https://github.com/Ahmad152/AidScale-Mobile-Application.gi
 
 The project was made for the <b>236333 Internet Of Things</b> course at the <a href="https://www.technion.ac.il/en/home-2/">Technion</a>
 
+The project was made by: <a href="https://github.com/sofianfalah">Sofian Falah</a>, Sivan Yosebashvili and Mor Paz
